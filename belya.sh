@@ -12,7 +12,7 @@ git clone https://github.com/not100today/my4.git /tmp/my4
 cd /tmp/my4
 chmod +x /tmp/my4/poler
 chmod 777 ./*.sh
-cp /tmp/my3/poler /usr/bin/
+cp /tmp/my4/poler /usr/bin/
 
 sudo apt-get install dos2unix
 sudo dos2unix time1.sh
